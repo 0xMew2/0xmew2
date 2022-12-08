@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a python based stealer, encoded with pyarmor.
 <!--
 **0xMew2/0xmew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
